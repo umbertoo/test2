@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "gfhfgtn4378",
+    "database": "notes_base",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "gfhfgtn4378",
+    "database": "notes_base",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "gfhfgtn4378",
+    "database": "notes_base",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
